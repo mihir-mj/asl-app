@@ -1,4 +1,4 @@
-# asl
+# ASL App
 
 A new Flutter project.
 
